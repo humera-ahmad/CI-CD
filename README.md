@@ -1,1 +1,1 @@
-follow the steps in steps.txt
+Get the link from steps.txt
